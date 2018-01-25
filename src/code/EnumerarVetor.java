@@ -14,6 +14,7 @@ public class EnumerarVetor {
     v.add("Three");
     v.add("Four");
     v.add("Five");
+    v.add("six");
    
     //Get Enumeration of Vector's elements using elements() method
     Enumeration e = v.elements();
